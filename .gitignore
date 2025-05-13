@@ -138,3 +138,6 @@ drafts/
 .virtual_documents/
 .zed/
 .ruff_cache/
+
+# Image classifier dataset
+data/CIFAR10
